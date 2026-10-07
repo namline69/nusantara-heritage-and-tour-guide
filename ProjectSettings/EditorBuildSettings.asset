@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Wirama/Scenes/Splash.unity
+    guid: c1970c22ec0f3b14fbc6727fc7e11170
+  - enabled: 1
+    path: Assets/Wirama/Scenes/Home.unity
+    guid: febb2c87dbc2d544582f5df34cf21a9c
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 605d71d4f1a25674885d3e7b36a8f68b
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: d5a61d31374ad9a4d81a0870db279114
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
